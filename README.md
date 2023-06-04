@@ -39,7 +39,7 @@ npm start
 
 
 ## License
-N/A
+MIT License
 
 ## Contribution
 
